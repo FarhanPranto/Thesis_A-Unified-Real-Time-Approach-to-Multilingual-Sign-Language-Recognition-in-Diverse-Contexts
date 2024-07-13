@@ -1,0 +1,8 @@
+xgboost==2.0.3
+pandas==2.0.2
+scikit-learn==1.2.2
+imbalanced-learn==0.12.2
+numpy==1.26.4
+seaborn==0.12.2
+matplotlib==3.7.2
+termcolor==2.3.0
